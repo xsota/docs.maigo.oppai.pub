@@ -11,5 +11,5 @@
 
 ### 迷子部関連リンク
 - [YouTube](https://www.youtube.com/channel/UCp2_MaQwr_ysfujH3b_ry9g) 
-- [Discordに参加](https://discord.gg/UZ4h8qx)
+- [Discordに参加](https://discord.gg/UZ4h8qx) (サーバのチャットログなど見れます)
 - [Twitter](https://twitter.com/maigo_bu)
